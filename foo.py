@@ -1,6 +1,7 @@
 Oranges 
 Apples
 Bananas
+Strawberry
 
 
 
